@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Muddy White",
+    "hex": "#E6E1D3",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "Mellow Yellow",
+    "hex": "#F6E7A8",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Light Pink",
+    "hex": "#F4C2C2",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "name": "Light Blue",
+    "hex": "#ADD8E6",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Light Green",
+    "hex": "#90EE90",
+    "rating": 5
+  }
+]
